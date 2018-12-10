@@ -148,6 +148,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Statki.cpp" />
+    <ClCompile Include="backtracking.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="backtracking.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
